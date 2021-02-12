@@ -1,1 +1,1 @@
-# Improved-Spotify-Reccomendation-System
+# Improved-Spotify-Recommendation-System
